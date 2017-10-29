@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114615017988248366}
   - component: {fileID: 50145378620305782}
   - component: {fileID: 60816823209214804}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: BulletPrefab2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134,7 +134,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: a8408de1955c34e9b954da0a3702eafe, type: 3}
-  m_Color: {r: 0.15862082, g: 0, b: 1, a: 1}
+  m_Color: {r: 0.15686275, g: 0, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
